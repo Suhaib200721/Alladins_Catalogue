@@ -1917,7 +1917,7 @@
     }
 
     /* ==========================================================================
-       FLOATING WHATSAPP BUTTON (SHEIK: 63838 16372)
+       FLOATING WHATSAPP BUTTON (SHEIK: 6382816372)
        ========================================================================== */
     .floating-whatsapp-widget {
       position: fixed;
@@ -2132,13 +2132,13 @@
         <span>Director Sheik On-Call &bull; ALADDIN'S Event Management &amp; Catering Services</span>
       </div>
       <div class="top-links-group">
-        <a href="tel:+916383816372" class="top-channel-link" aria-label="Call Sheik at 63838 16372">
-          <span>&#9742;</span> 63838 16372
+        <a href="tel:+916382816372" class="top-channel-link" aria-label="Call Sheik at 6382816372">
+          <span>&#9742;</span> 6382816372
         </a>
         <a href="mailto:aladdinsevents15@gmail.com" class="top-channel-link" aria-label="Email aladdinsevents15@gmail.com">
           <span>&#9993;</span> aladdinsevents15@gmail.com
         </a>
-        <a href="https://wa.me/916383816372" target="_blank" rel="noopener noreferrer" class="top-channel-link" style="color:#0D9488;">
+        <a href="https://wa.me/916382816372" target="_blank" rel="noopener noreferrer" class="top-channel-link" style="color:#0D9488;">
           <span>&#128172;</span> WhatsApp Hotline
         </a>
       </div>
@@ -2203,7 +2203,7 @@
 
     <div style="text-align:center;font-size:0.85rem;color:var(--text-muted);">
       <p>Contact Person: <strong>Sheik</strong></p>
-      <p style="margin-top:0.3rem;">WhatsApp: <a href="https://wa.me/916383816372" style="color:var(--teal-600);font-weight:700;">63838 16372</a></p>
+      <p style="margin-top:0.3rem;">WhatsApp: <a href="https://wa.me/916382816372" style="color:var(--teal-600);font-weight:700;">6382816372</a></p>
       <p style="margin-top:0.3rem;">Email: <a href="mailto:aladdinsevents15@gmail.com" style="color:var(--text-dark);">aladdinsevents15@gmail.com</a></p>
     </div>
   </div>
@@ -2746,8 +2746,8 @@
             <div class="dossier-channel-item">
               <p class="dossier-item-label">WhatsApp Number</p>
               <p class="dossier-item-value">
-                <a href="https://wa.me/916383816372" target="_blank" rel="noopener noreferrer" style="color:#0D9488;">
-                  63838 16372
+                <a href="https://wa.me/916382816372" target="_blank" rel="noopener noreferrer" style="color:#0D9488;">
+                  6382816372
                 </a>
               </p>
             </div>
@@ -2769,7 +2769,7 @@
             </div>
 
             <div class="dossier-cta-buttons">
-              <a href="https://wa.me/916383816372" target="_blank" rel="noopener noreferrer" class="btn-wa-action">
+              <a href="https://wa.me/916382816372" target="_blank" rel="noopener noreferrer" class="btn-wa-action">
                 <span>&#128172;</span> Chat on WhatsApp
               </a>
               <a href="mailto:aladdinsevents15@gmail.com?subject=Event%20Enquiry%20%E2%80%94%20ALADDIN%27S&body=Hello%20Sheik%2C%0A%0AI%20would%20like%20to%20enquire%20about%20event%20management%20and%20catering%20services.%0A%0AName%3A%20%0APhone%3A%20%0AEvent%20Type%3A%20%0AEvent%20Date%3A%20%0AGuest%20Count%3A%20%0ASpecial%20Requirements%3A%20%0A%0AThank%20you." class="btn-email-action">
@@ -2822,7 +2822,7 @@
 
                 <div class="input-cell-box">
                   <label for="waRecipientDisplay">WhatsApp Contact</label>
-                  <input type="text" id="waRecipientDisplay" value="Sheik &bull; 63838 16372" readonly style="cursor:default;background:var(--color-cream-soft);color:var(--teal-800);font-weight:700;" />
+                  <input type="text" id="waRecipientDisplay" value="Sheik &bull; 6382816372" readonly style="cursor:default;background:var(--color-cream-soft);color:var(--teal-800);font-weight:700;" />
                 </div>
 
                 <div class="input-cell-box span-full">
@@ -2837,7 +2837,7 @@
               </button>
 
               <p class="form-instant-notice">
-                <strong>How it works:</strong> Submitting will open WhatsApp with all your enquiry details pre-filled directly to <strong>Sheik at 63838 16372</strong>.
+                <strong>How it works:</strong> Submitting will open WhatsApp with all your enquiry details pre-filled directly to <strong>Sheik at 6382816372</strong>.
               </p>
             </form>
           </div>
@@ -2900,7 +2900,7 @@
           </div>
           <div class="footer-contact-row">
             <p class="footer-c-lbl">WhatsApp Number</p>
-            <p class="footer-c-val"><a href="https://wa.me/916383816372" target="_blank" rel="noopener noreferrer">63838 16372</a></p>
+            <p class="footer-c-val"><a href="https://wa.me/916382816372" target="_blank" rel="noopener noreferrer">6382816372</a></p>
           </div>
           <div class="footer-contact-row">
             <p class="footer-c-lbl">Email Address</p>
@@ -2938,12 +2938,12 @@
     <button class="lb-nav-trigger lb-nav-next" id="lbNextBtn" aria-label="Next poster" title="Next (Right Arrow)">&#8250;</button>
   </div>
 
-  <!-- FLOATING WHATSAPP BUTTON (SHEIK: 63838 16372) -->
-  <a href="https://wa.me/916383816372" target="_blank" rel="noopener noreferrer" class="floating-whatsapp-widget" aria-label="Chat directly with Sheik on WhatsApp at 63838 16372">
+  <!-- FLOATING WHATSAPP BUTTON (SHEIK: 6382816372) -->
+  <a href="https://wa.me/916382816372" target="_blank" rel="noopener noreferrer" class="floating-whatsapp-widget" aria-label="Chat directly with Sheik on WhatsApp at 6382816372">
     <svg width="32" height="32" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
       <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
     </svg>
-    <span class="floating-whatsapp-tooltip">Chat with Sheik &bull; 63838 16372</span>
+    <span class="floating-whatsapp-tooltip">Chat with Sheik &bull; 6382816372</span>
   </a>
 
   <!-- ==========================================================================
@@ -3282,7 +3282,7 @@
       });
     });
 
-    // 9. Interactive WhatsApp Enquiry Form (Direct to Sheik at 63838 16372)
+    // 9. Interactive WhatsApp Enquiry Form (Direct to Sheik at 6382816372)
     document.getElementById("enquiryForm").addEventListener("submit", function(e) {
       e.preventDefault();
       const name = document.getElementById("fullName").value.trim();
@@ -3291,7 +3291,7 @@
       const eventDate = document.getElementById("eventDate").value;
       const guestCount = document.getElementById("guestCount").value;
       const details = document.getElementById("eventDetails").value.trim();
-      const waNumber = "916383816372";
+      const waNumber = "916382816372";
 
       if (!name) {
         alert("Please enter your full name.");
